@@ -8,4 +8,4 @@
 ## Dashboard Preview
 - Below is an image of the dashboard created in Tableau:
 
-![Dashboard Preview]("Dashboard 1.png")
+![Dashboard Preview](Dashboard%201.png)
